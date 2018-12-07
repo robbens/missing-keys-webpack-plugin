@@ -1,11 +1,14 @@
 {
-  "name": "find-missing-keys",
-  "version": "0.1.0",
-  "description": "Find missing keys in JSON files",
-  "main": "FindMissingKeys.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Robin Nilsson",
-  "license": "ISC"
+    "name": "missing-keys-webpack-plugin",
+    "version": "0.1.0",
+    "description": "Find missing keys in JSON files",
+    "author": "Robin Nilsson",
+    "license": "MIT",
+    "main": "FindMissingKeys.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "lodash": "^4.17.11"
+    }
 }
