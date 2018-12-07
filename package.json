@@ -1,0 +1,11 @@
+{
+  "name": "find-missing-keys",
+  "version": "0.1.0",
+  "description": "Find missing keys in JSON files",
+  "main": "FindMissingKeys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Nilsson",
+  "license": "ISC"
+}
